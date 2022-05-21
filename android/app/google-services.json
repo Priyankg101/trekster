@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062517798780",
+    "project_id": "trekster-fa9d5",
+    "storage_bucket": "trekster-fa9d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062517798780:android:b473433b738fec570956f9",
+        "android_client_info": {
+          "package_name": "com.example.trekster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062517798780-g9gperj1his09iai0rm26aa1numjua4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHNAaQ3oftgshGps1lMEDpd4fhq3dQedk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062517798780-g9gperj1his09iai0rm26aa1numjua4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
